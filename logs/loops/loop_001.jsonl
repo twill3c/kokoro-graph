@@ -8,3 +8,5 @@
 {"v": "1.2", "ts": "2026-08-17T10:49:02+09:00", "project": "kokoro-graph", "loop_id": "loop_001", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-17T10:49:02+09:00", "project": "kokoro-graph", "loop_id": "loop_001", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-17T10:49:03+09:00", "project": "kokoro-graph", "loop_id": "loop_001", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-17T10:49:04+09:00", "project": "kokoro-graph", "loop_id": "loop_001", "event": "commit", "data": {"kind": "feat", "sha": "cd3e406", "message": "feat: コーパス確定パイプライン"}}
+{"v": "1.2", "ts": "2026-08-17T10:49:04+09:00", "project": "kokoro-graph", "loop_id": "loop_001", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "300 作品確定。照合 317/317・取得エラー 0・pytest 10/10。除外 8(字数超過)+補充 19 を manifest に全記録"}}
