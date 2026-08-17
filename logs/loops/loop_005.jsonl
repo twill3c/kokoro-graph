@@ -7,3 +7,5 @@
 {"v": "1.2", "ts": "2026-08-17T11:13:01+09:00", "project": "kokoro-graph", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-17T11:13:01+09:00", "project": "kokoro-graph", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-17T11:13:01+09:00", "project": "kokoro-graph", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-17T11:13:02+09:00", "project": "kokoro-graph", "loop_id": "loop_005", "event": "commit", "data": {"kind": "feat", "sha": "f72c513", "message": "feat: F-10 フッタ"}}
+{"v": "1.2", "ts": "2026-08-17T11:15:37+09:00", "project": "kokoro-graph", "loop_id": "loop_005", "event": "failure", "data": {"code": "TOOL-ENV", "severity": "S3", "detected_stage": 5, "summary": "本番検証で作品ページ 404: framework:null の Vercel 静的配信は .html クリーン URL を解決しない。trailingSlash:true でディレクトリ形式に変更", "resolution": "retry"}}
