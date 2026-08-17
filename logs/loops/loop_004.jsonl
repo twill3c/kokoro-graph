@@ -8,3 +8,5 @@
 {"v": "1.2", "ts": "2026-08-17T11:06:09+09:00", "project": "kokoro-graph", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-17T11:06:09+09:00", "project": "kokoro-graph", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-17T11:06:09+09:00", "project": "kokoro-graph", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-17T11:06:10+09:00", "project": "kokoro-graph", "loop_id": "loop_004", "event": "commit", "data": {"kind": "feat", "sha": "c2abc6b", "message": "feat: 作品詳細(曲線×本文)"}}
+{"v": "1.2", "ts": "2026-08-17T11:06:10+09:00", "project": "kokoro-graph", "loop_id": "loop_004", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "詳細画面完成。vitest 17/17・verify PASS・実駆動 OK"}}

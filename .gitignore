@@ -12,3 +12,6 @@ data/lines/
 web/coverage/
 web/tsconfig.tsbuildinfo
 web/.loop/
+
+.vercel
+.env*
