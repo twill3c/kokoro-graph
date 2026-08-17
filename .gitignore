@@ -9,3 +9,6 @@ out/
 __pycache__/
 *.pyc
 data/lines/
+web/coverage/
+web/tsconfig.tsbuildinfo
+web/.loop/
