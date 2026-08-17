@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1786932003694" clover="3.2.0">
+  <project timestamp="1786932003694" name="All files">
+    <metrics statements="43" coveredstatements="43" conditionals="19" coveredconditionals="19" methods="5" coveredmethods="5" elements="67" coveredelements="67" complexity="0" loc="43" ncloc="43" packages="1" files="2" classes="2"/>
+    <file name="color.ts" path="C:\_ClaudeCode\kokoro-graph\web\src\core\color.ts">
+      <metrics statements="18" coveredstatements="18" conditionals="7" coveredconditionals="7" methods="3" coveredmethods="3"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="8" type="cond" truecount="1" falsecount="0"/>
+      <line num="11" count="8" type="stmt"/>
+      <line num="12" count="8" type="stmt"/>
+      <line num="13" count="8" type="stmt"/>
+      <line num="14" count="8" type="stmt"/>
+      <line num="15" count="8" type="stmt"/>
+      <line num="16" count="8" type="stmt"/>
+      <line num="18" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="19" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="8" type="stmt"/>
+      <line num="23" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+    </file>
+    <file name="sortfilter.ts" path="C:\_ClaudeCode\kokoro-graph\web\src\core\sortfilter.ts">
+      <metrics statements="25" coveredstatements="25" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+      <line num="4" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="9" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="3" type="cond" truecount="1" falsecount="0"/>
+      <line num="11" count="10" type="stmt"/>
+      <line num="12" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="14" count="8" type="stmt"/>
+      <line num="15" count="10" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="25" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="26" count="4" type="stmt"/>
+      <line num="27" count="4" type="stmt"/>
+      <line num="28" count="4" type="stmt"/>
+      <line num="29" count="4" type="stmt"/>
+      <line num="30" count="4" type="cond" truecount="1" falsecount="0"/>
+      <line num="31" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="32" count="9" type="cond" truecount="1" falsecount="0"/>
+      <line num="33" count="7" type="stmt"/>
+      <line num="34" count="4" type="stmt"/>
+      <line num="35" count="4" type="stmt"/>
+    </file>
+  </project>
+</coverage>
