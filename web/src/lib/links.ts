@@ -1,7 +1,9 @@
-// フッタリンク(F-10)
-export const FOOTER_NOTICE = "MIT License © 2026 坂田哲朗";
+// フッタリンク。フリート標準の並び:
+// MIT License(© 2026 坂田哲朗)・GitHub・歩き方・設計図・App Menu
+export const FOOTER_NOTICE = "© 2026 坂田哲朗";
 
 export const FOOTER_LINKS: { label: string; href: string }[] = [
+  { label: "MIT License", href: "https://github.com/twill3c/kokoro-graph/blob/main/LICENSE" },
   { label: "GitHub", href: "https://github.com/twill3c/kokoro-graph" },
   {
     label: "kokoro-graph の読み方",
