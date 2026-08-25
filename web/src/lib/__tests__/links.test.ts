@@ -1,14 +1,15 @@
-// T-120: フッタ 5 リンク(F-10)
+// T-120: フッタ 5 リンク。フリート標準の並び。
 import { describe, expect, it } from "vitest";
 import { FOOTER_LINKS, FOOTER_NOTICE } from "../links";
 
 describe("T-120 footer", () => {
-  it("MIT License 表記", () => {
-    expect(FOOTER_NOTICE).toBe("MIT License © 2026 坂田哲朗");
+  it("MIT License の © 表記", () => {
+    expect(FOOTER_NOTICE).toBe("© 2026 坂田哲朗");
   });
 
-  it("4 アンカーが正しいラベルと href を持つ", () => {
+  it("5 アンカーが正しいラベルと href を持つ", () => {
     expect(FOOTER_LINKS).toEqual([
+      { label: "MIT License", href: "https://github.com/twill3c/kokoro-graph/blob/main/LICENSE" },
       { label: "GitHub", href: "https://github.com/twill3c/kokoro-graph" },
       {
         label: "kokoro-graph の読み方",
